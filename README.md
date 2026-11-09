@@ -7,9 +7,9 @@ A small Flask + SQLite app with **10 known security bugs** planted across severa
 | Repo | What it is |
 |---|---|
 | **vulnlab-python-basics** (this repo) | Vulnerable Flask app |
-| [vulnlab-js-basics](https://github.com/OWNER/vulnlab-js-basics) | The same idea in Express |
-| [vuln-scan-skill](https://github.com/OWNER/vuln-scan-skill) | Codex agent skill that scans it |
-| [vuln-scan-workshop](https://github.com/OWNER/vuln-scan-workshop) | Notebook that walks through each stage and scores the results |
+| [vulnlab-js-basics](https://github.com/karthikeyanchand/vulnlab-js-basics) | The same idea in Express |
+| [vuln-scan-skill](https://github.com/karthikeyanchand/vuln-scan-skill) | Codex agent skill that scans it |
+| [vuln-scan-workshop](https://github.com/karthikeyanchand/vuln-scan-workshop) | Notebook that walks through each stage and scores the results |
 
 ## What's planted
 
